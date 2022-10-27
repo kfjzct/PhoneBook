@@ -1,0 +1,7 @@
+Instructions/Commands:
+C: creates a new contace, enter the name of the contact. Ex: C Barack Obama 
+L: lists all of the contacts we have
+N: adds a new entry to an existing contact, as well as the type of the contact method. Ex: N Barack Obama WORK 805-333-3932
+P: prints all of the phone numbers associated with the contact
+X: deletes a specific phone number in a contact Ex: X Barack Obama WORK
+D: deletes a contact Ex: D Barack Obama
